@@ -1,6 +1,6 @@
 
-<kbd align="center">
-  <img src="https://raw.githubusercontent.com/SummerHosting/.github/main/profile/banner.png" title="banner summerhosting" height="350" style="border-radius:12px;">
+<kbd  align="center">
+  <img  align="center" src="https://raw.githubusercontent.com/SummerHosting/.github/main/profile/banner.png" title="banner summerhosting" height="350" style="border-radius:12px;">
 </kbd>
 
 <h1 align="center">
