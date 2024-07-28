@@ -1,5 +1,11 @@
-## SummerHosting.pl
 
+<kbd align="center">
+  <img src="https://raw.githubusercontent.com/SummerHosting/.github/main/profile/banner.png" title="banner summerhosting" style="border-radius:12px;">
+</kbd>
+
+<h1 align="center">
+  SummerHosting.pl
+</h1>
 <!--
 
 **Here are some ideas to get you started:**
