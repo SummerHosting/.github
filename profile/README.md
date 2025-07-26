@@ -8,5 +8,5 @@
 </h1>
 
 <p align="center">
-    🇵🇱  VPS & Game hosting z ochroną Anty-DDoS 🚀
+    🇵🇱 Hosting VPS & Game z ochroną Anty-DDoS 🚀
 </p>
