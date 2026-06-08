@@ -1,12 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SummerHosting/.github/main/profile/banner.png" title="banner summerhosting" alt="SummerHosting Banner">
+</p>
 
-<kbd  align="center">
-  <img  align="center" src="https://raw.githubusercontent.com/SummerHosting/.github/main/profile/banner.png" title="banner summerhosting">
-</kbd>
-
-<h1 align="center">
-  SummerHosting.pl
-</h1>
+<h1 align="center">SummerHosting.pl</h1>
 
 <p align="center">
-    🇵🇱 Hosting VPS & Game z ochroną Anty-DDoS 🚀
+  🇵🇱 Hosting VPS & Game z ochroną Anty-DDoS 🚀
 </p>
