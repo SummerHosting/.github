@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://shieldcn.dev/flag/pl.svg?font=geist" alt="Poland">
-  <img src="https://shieldcn.dev/discord/members/PSvGXrznC2.svg?font=geist" alt="Discord members">
+  <img src="https://shieldcn.dev/flag/pl.svg?variant=outline&font=geist" alt="Poland">
+  <img src="https://shieldcn.dev/discord/members/PSvGXrznC2.svg?variant=outline&font=geist" alt="Discord members">
   <a href="https://summerhosting.pl/">
-    <img src="https://www.shieldcn.dev/badge/Website-summerhosting.pl-181717.svg?logo=ri%3ALuLink&size=sm&font=geist" alt="Website">
+    <img src="https://www.shieldcn.dev/badge/Website-summerhosting.pl-181717.svg?variant=outline&logo=ri%3ALuLink&size=sm&font=geist" alt="Website">
   </a>
 </p>
 
